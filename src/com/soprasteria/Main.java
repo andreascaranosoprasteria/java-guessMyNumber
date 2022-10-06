@@ -27,7 +27,7 @@ public class Main {
 			if (user > number)
 				System.out.println("Il numero da te inserito è > di quello generato.");
 			else
-				System.out.println("Il numero da te inserito è > di quello generato.");
+				System.out.println("Il numero da te inserito è < di quello generato.");
 		} while (user != number);
 		System.out.println("Risposta esatta, tentativi effettuati: " + cont);
 
